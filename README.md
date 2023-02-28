@@ -7,7 +7,6 @@ O objetivo central do projeto era desenvolver um app capaz de manter usuários, 
 ## Detalhes do projeto
 - O prazo para o desenvolvimento do aplicativo foi de 6 à 27 de fevereiro;
 - Foi a primeira experiência da equipe em desenvolver uma aplicação completa (backend, frontend e QA) em equipe;
-- Este repositório não consta com a parte desenvolvida pelos devs de frontend e pela QA, visto que não se trata do trabalho desde que vos fala.
 
  ### Observações pontuais sobre o repositório
  A entrega final da aplicação não foi completa. O ocorrido foi que a equipe toda não foi capaz de aplicar todas as funcionalidades esperadas na entrega, portanto o repositório consta com duas branches (além da [main](https://github.com/Artur-Bertoni/final-challenge) claro), a [develop](https://github.com/Artur-Bertoni/final-challenge/tree/develop), com a aplicação funcionando em sua integridade e revisada por QA e a [develop-with-security](https://github.com/Artur-Bertoni/final-challenge/tree/develop-with-security), que como consta no nome se trata da mesma aplicação com a diferença de possuir [autenticação e autorização](https://github.com/Artur-Bertoni/final-challenge/tree/develop-with-security/easy-vote-api/src/main/java/com/easyvoteapi/config/security) implementadas, com a diferença de não ter passado por testes automatizados e/ou manuais por parte da QA.
